@@ -1,2 +1,0 @@
-# Studios
-Whimsey Studios Application
