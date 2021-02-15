@@ -1,7 +1,7 @@
 # Whimsey Studios
-V0.1.0-Beta Build 20201022
+V0.2.0-Beta Build 20210215
 
-© 2020-2020 Whimsey Digital All Rights Reserved.
+© 2020-2021 Whimsey Digital All Rights Reserved.
 
 ### Project Summary
 Whimsey Studios Application.
